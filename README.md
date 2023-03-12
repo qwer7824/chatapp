@@ -20,3 +20,4 @@
 <p>- 채팅방 CRUD 
 <p>- 중복검사
 
+참조 : https://youtu.be/Oo_eHCr_HsQ
